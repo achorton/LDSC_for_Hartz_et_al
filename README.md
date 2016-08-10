@@ -1,7 +1,8 @@
 # LDSC_for_Hartz_et_al
 Scripts for data preparation and analysis of genetic correlation of nicotine and other phenotypes using LDSC
 
-Files contained:
+#Files contained:
+
 munge_sumstats.sh   /* bash commands for preparing *.sumstats.gz using ldsc Python tools */
 
 ldsc_scz2_invocation.sh   /* bash script for determining genetic correlation of PGC_SCZ2 to other phenotypes using --rg option of ldsc.py */
