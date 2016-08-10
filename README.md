@@ -3,7 +3,7 @@ Scripts for data preparation and analysis of genetic correlation of nicotine and
 
 ###Files contained:
 
-munge_sumstats.sh   /* bash commands for preparing *.sumstats.gz using ldsc Python tools */
+munge_sumstats.sh   ###/* bash commands for preparing *.sumstats.gz using ldsc Python tools */
 
 ldsc_scz2_invocation.sh   /* bash script for determining genetic correlation of PGC_SCZ2 to other phenotypes using --rg option of ldsc.py */
 ldsc_bip_invocation.sh   /* bash script for determining genetic correlation of PGC_bipolar to other phenotypes using --rg option of ldsc.py */
