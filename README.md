@@ -1,5 +1,6 @@
 # LDSC_for_Hartz_et_al
-Scripts for data preparation and analysis of genetic correlation of nicotine and other phenotypes using LDSC
+Scripts for data preparation and analysis of genetic correlation of nicotine and other phenotypes using LDSC from https://github.com/bulik/ldsc
+[GitHub](http://github.com)
 
 ###Files contained:
 
