@@ -1,6 +1,6 @@
 # LDSC_for_Hartz_et_al
-Scripts for data preparation and analysis of genetic correlation of nicotine and other phenotypes using LDSC from https://github.com/bulik/ldsc
-[GitHub](http://github.com)
+Scripts for data preparation and analysis of genetic correlation of nicotine and other phenotypes using LDSC Python scripts from https://github.com/bulik/ldsc
+
 
 ###Files contained:
 
@@ -32,3 +32,13 @@ snplist_convert.RTI.pl   /* Perl script for harmonizing variant naming and allel
 snplist_convert.TAGelse.pl   /* Perl script for harmonizing variant naming and alleles for TAG meta-analyses to PGC bipolar results */
 
 snplist_convert.scz2.pl   /* Perl script for harmonizing variant naming and alleles for PGC SCZ2 results to PGC bipolar results */
+
+
+###Links to published GWAS files may be found [at the PGC website] https://www.med.unc.edu/pgc/results-and-downloads (may require reformatting):
+
+pgc.bip.2012-04.zip
+ckqny.scz2snpres.gz
+tag.cpd.tbl.gz
+tag.evrsmk.tbl.gz
+tag.former.tbl.gz
+tag.logonset.tbl.gz
