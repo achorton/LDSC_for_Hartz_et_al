@@ -34,7 +34,7 @@ snplist_convert.TAGelse.pl   /* Perl script for harmonizing variant naming and a
 snplist_convert.scz2.pl   /* Perl script for harmonizing variant naming and alleles for PGC SCZ2 results to PGC bipolar results */
 
 
-###Links to published GWAS files may be found at the PGC website: https://www.med.unc.edu/pgc/results-and-downloads (may require reformatting):
+###Links to published GWAS files may be found at the PGC website (may require reformatting): https://www.med.unc.edu/pgc/results-and-downloads 
 
 pgc.bip.2012-04.zip
 ckqny.scz2snpres.gz
