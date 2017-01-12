@@ -37,8 +37,13 @@ snplist_convert.scz2.pl   /* Perl script for harmonizing variant naming and alle
 ###Links to published GWAS files may be found at the PGC website (may require reformatting): https://www.med.unc.edu/pgc/results-and-downloads 
 
 pgc.bip.2012-04.zip
+
 ckqny.scz2snpres.gz
+
 tag.cpd.tbl.gz
+
 tag.evrsmk.tbl.gz
+
 tag.former.tbl.gz
+
 tag.logonset.tbl.gz
